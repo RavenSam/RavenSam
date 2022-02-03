@@ -1,8 +1,8 @@
-![A professional frontend developer based in Algeria](https://raw.githubusercontent.com/RavenSam/RavenSam/main/SAM%20M..png)
+<img src="https://raw.githubusercontent.com/RavenSam/RavenSam/main/SAM%20M..png" width="100% />
 
 ### Hi there 👋, I'm Sam
 #### A professional frontend developer based in Algeria
-![A professional frontend developer based in Algeria](https://raw.githubusercontent.com/RavenSam/RavenSam/main/SAM%20M..png)
+
 
 
 Skills: REACT / NEXTJS / JS / HTML / CSS
