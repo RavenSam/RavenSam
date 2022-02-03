@@ -8,9 +8,9 @@
 Skills: REACT / NEXTJS / JS / HTML / CSS
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RavenSam&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RavenSam&show_icons=true&theme=vue-dark)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RavenSam&theme=radical)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RavenSam&theme=vue-dark)  
 
 
 
