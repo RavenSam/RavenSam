@@ -1,9 +1,8 @@
-<img src="https://raw.githubusercontent.com/RavenSam/RavenSam/main/SAM%20M..png" width="80%" margin="0 auto" />
+<img src="https://raw.githubusercontent.com/RavenSam/RavenSam/main/SAM%20M..png" width="100%"  />
 
 <h1 align="center">Hey, I'm Sam</h1>
 <h3 align="center">A professional frontend developer from Algeria</h3>
 
-- 🔭 I’m currently working on [a personal project](https://sisky.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
