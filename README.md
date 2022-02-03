@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/RavenSam/RavenSam/main/SAM%20M..png" width="100%"  />
+![A professional frontend developer based in Algeria](https://raw.githubusercontent.com/RavenSam/RavenSam/main/SAM%20M..png)
 
 <h1 align="center">Hey, I'm Sam</h1>
 <h3 align="center">A professional frontend developer from Algeria</h3>
