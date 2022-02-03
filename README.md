@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/RavenSam/RavenSam/main/SAM%20M..png" width="100%" />
+<img src="https://raw.githubusercontent.com/RavenSam/RavenSam/main/SAM%20M..png" width="80%" margin="0 auto" />
 
-<h1 align="center">Hi 👋, I'm Sam Makhlouf</h1>
+<h1 align="center">Hey, I'm Sam</h1>
 <h3 align="center">A professional frontend developer from Algeria</h3>
 
 - 🔭 I’m currently working on [a personal project](https://sisky.vercel.app/)
