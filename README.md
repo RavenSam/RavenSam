@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/RavenSam/RavenSam/main/SAM%20M..png" />
+<img src="https://raw.githubusercontent.com/RavenSam/RavenSam/main/SAM%20M..png" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Sam Makhlouf</h1>
 <h3 align="center">A professional frontend developer from Algeria</h3>
