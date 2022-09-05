@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋, I'm Sam
-#### A frontend developer based in Algeria
+#### A web developer based in Algeria
 
 
 
