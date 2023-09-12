@@ -17,7 +17,7 @@ Skills: REACT / NEXTJS / JS / HTML / CSS
     <img src="https://skillicons.dev/icons?i=discord" />
 </a> 
 
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/makhlouf-sam-713575184/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a> 
 
@@ -35,6 +35,6 @@ Skills: REACT / NEXTJS / JS / HTML / CSS
 <h3 align="center">Oh! Also...</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,solidjs,nextjs,remix,ts,tauri,nodejs,prisma,redux,vite,express,postman,graphql,apollo,tailwind,md,materialui,bootstrap,figma,ps,sass,styledcomponents,astro,alpinejs,bash,git,linux,github,githubactions,vscode,netlify,heroku,jest,supabase,planetscale,firebase,mongodb,mysql,postgres,sqlite&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,solidjs,nextjs,remix,ts,tauri,nodejs,prisma,redux,vite,express,postman,graphql,apollo,tailwind,md,materialui,bootstrap,figma,ps,sass,styledcomponents,astro,alpinejs,bash,git,linux,github,githubactions,vscode,netlify,heroku,jest,supabase,planetscale,firebase,mongodb,mysql,postgres,sqlite&perline=10" />
 </p>
 
