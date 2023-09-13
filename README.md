@@ -1,15 +1,9 @@
-<img src="https://raw.githubusercontent.com/RavenSam/RavenSam/main/SAM%20M..png" width="100%" />
+<img src="https://raw.githubusercontent.com/RavenSam/RavenSam/main/banner.png" width="100%" />
 
 
-### Hi there 👋, I'm Sam
-#### A web developer based in Algeria
+[![GitHub Streak](https://streak-stats.demolab.com?user=RavenSam&theme=tokyonight&hide_border=true&card_width=500)](https://git.io/streak-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavenSam&hide_border=true&hide=TeX&layout=compact&theme=tokyonight)
 
-
-
-Skills: REACT / NEXTJS / JS / HTML / CSS
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RavenSam&theme=vue-dark)  
 
 <h3 align="left">Contact me</h3>
 
