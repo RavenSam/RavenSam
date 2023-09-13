@@ -1,9 +1,11 @@
 <img src="https://raw.githubusercontent.com/RavenSam/RavenSam/main/banner.png" width="100%" />
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RavenSam&theme=tokyonight&hide_border=true&card_width=500)](https://git.io/streak-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavenSam&hide_border=true&hide=TeX&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RavenSam&theme=tokyonight&hide_border=true&card_width=1200)](https://git.io/streak-stats) 
 
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavenSam&hide_border=true&hide=TeX&layout=compact&theme=tokyonight)
+-->
 
 <h3 align="left">Contact me</h3>
 
