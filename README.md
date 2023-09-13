@@ -1,12 +1,6 @@
 <img src="https://raw.githubusercontent.com/RavenSam/RavenSam/main/banner.png" width="100%" />
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RavenSam&theme=tokyonight&hide_border=true&card_width=1200)](https://git.io/streak-stats) 
-
-<!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavenSam&hide_border=true&hide=TeX&layout=compact&theme=tokyonight)
--->
-
 <h3 align="left">Contact me</h3>
 
 <a href="https://discord.com/users/388370306986803201" target="_blank">
@@ -16,6 +10,19 @@
 <a href="https://www.linkedin.com/in/makhlouf-sam-713575184/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a> 
+
+
+<h3></h3>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RavenSam&theme=tokyonight&hide_border=true&card_width=1200)](https://git.io/streak-stats) 
+
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavenSam&hide_border=true&hide=TeX&layout=compact&theme=tokyonight)
+-->
+
+
+
 
 
 <h3 align="left">Languages</h3>
