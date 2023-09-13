@@ -35,9 +35,9 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
 </p>
 
-<h3 align="center">Oh! Also...</h3>
+<h3 align="left">Oh! Also...</h3>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=react,solidjs,nextjs,remix,ts,tauri,nodejs,prisma,redux,vite,express,postman,graphql,apollo,tailwind,md,materialui,bootstrap,figma,ps,sass,styledcomponents,astro,alpinejs,bash,git,linux,github,githubactions,vscode,netlify,heroku,jest,supabase,planetscale,firebase,mongodb,mysql,postgres,sqlite&perline=10" />
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=react,solidjs,nextjs,remix,ts,tauri,nodejs,prisma,redux,vite,express,postman,graphql,apollo,tailwind,md,materialui,bootstrap,figma,ps,sass,styledcomponents,astro,alpinejs,bash,git,linux,github,githubactions,vscode,netlify,heroku,jest,supabase,planetscale,firebase,mongodb,mysql,postgres,sqlite&perline=20" />
 </p>
 
