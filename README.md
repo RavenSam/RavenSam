@@ -1,16 +1,6 @@
 <img src="https://raw.githubusercontent.com/RavenSam/RavenSam/main/banner.png" width="100%" />
 
 
-<h3 align="left">Contact me</h3>
-
-<a href="https://discord.com/users/388370306986803201">
-    <img src="https://skillicons.dev/icons?i=discord" />
-</a> 
-
-<a href="https://www.linkedin.com/in/makhlouf-sam-713575184/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-</a> 
-
 
 <h3></h3>
 
